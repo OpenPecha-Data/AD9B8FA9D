@@ -1,0 +1,19 @@
+id: AD9B8FA9D
+title: 'Bestowal of Wish-Fulfilling Treasure: A Prayer to the Lineage of Könchok Chidü'
+type: translation
+pechas:
+- IF01FF8F0
+- I5B111181
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:47:33.113417
+  last_modified_at: 2023-01-04 12:47:33.113424
+  collections:
+  - Katok Rigdzin Tsewang Norbu
+  - Works of Tibetan Masters
+alignment_to_base:
+  IF01FF8F0/14C4: 7EA9
+  I5B111181/5C54: 7EA9
